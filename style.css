@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+h2 {
+    padding: 14px 0px 4px 0px;
+}
+.layout {
+    align-content: center;
+    margin:   auto;
+    padding: 10px 50px;
+    max-width: 900px;
+}
+
+.cabecalho {
+    padding: 16px;
+}
+
+.subtitulo {
+    font-size: 16px;
+    color: #E1624F;
+    padding: 5px;
+    font-weight: bold;
+    display: block;
+}
+
+.introducao {
+    justify-content: center;
+    align-content: center;
+}      
+
+.imagem-principal {
+    width: 100%;
+    height: auto;
+    border-radius: 28px;
+    max-width: 870px;
+    min-width: 350px;
+    align-items: center;
+    height: 470px;
+    min-height: 400px;
+    display: block;
+    margin: auto;
+}
+
+.italico {
+    font-style: italic;
+    text-align: center;
+    padding: 14px 0px 82px 0px;
+    font-size: 14px;
+}
+
+.conteudo {
+    margin-top: 30px;
+}
+
+.texto {
+    font-size: 14px;
+    padding: 7px 0px 15px 0px;
+}
+
+.imagem-conteudo {
+    width: 100%;
+    border-radius: 28px;
+    max-width: 870px;
+    min-width: 350px;
+    margin-top: 16px;
+    height: 270px;
+    margin: 38px 0px 24px 0px;
+    display: block;
+    margin: auto;
+}
+
+li {
+    margin-left: 20px;
+}
+.lista {
+    font-weight: bold;
+}
+
+.historia {
+    color: #0C51A7;
+    padding-bottom: 38px;
+}
+
+.casais {
+    color: #591B98;
+}
+
+.familias {
+    color: #E5245E;
+}
+
+.orcamento {
+    color: #E95E10;
+    margin-bottom: 40px;
+}
+
+.conclusao {
+    font-size: 14px;
+    margin: 40px 0px 64px 0px;
+    text-align: center;
+}
+
+.agradecimento {
+    font-size: 14px;
+    text-align: center;
+    padding-bottom: 48px;
+}
