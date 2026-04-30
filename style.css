@@ -79,6 +79,10 @@ li {
     font-weight: bold;
 }
 
+link {
+    text-decoration: none;
+}
+
 .historia {
     color: #0C51A7;
     padding-bottom: 38px;
@@ -86,15 +90,19 @@ li {
 
 .casais {
     color: #591B98;
+    text-decoration: none;
 }
 
 .familias {
     color: #E5245E;
+    text-decoration: none;
 }
 
 .orcamento {
     color: #E95E10;
     margin-bottom: 40px;
+    text-decoration: none;
+
 }
 
 .conclusao {
